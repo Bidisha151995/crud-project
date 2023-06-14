@@ -1,0 +1,53 @@
+{
+  "product": [
+    {
+      "id": 5,
+      "prod_name": "Mobile",
+      "company": "LG",
+      "price": "10000",
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa."
+    },
+    {
+      "id": 6,
+      "prod_name": "Laptop",
+      "company": "Asus",
+      "price": "48000",
+      "desc": "Gaming Laptop"
+    },
+    {
+      "prod_name": "Mobile",
+      "company": "MI",
+      "price": "25000",
+      "desc": "Lorem Ipsum",
+      "id": 7
+    },
+    {
+      "prod_name": "Mobile",
+      "company": "Nokia",
+      "price": "18000",
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+      "id": 8
+    },
+    {
+      "prod_name": "Camera",
+      "company": "Nikon",
+      "price": "35000",
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+      "id": 9
+    },
+    {
+      "prod_name": "Laptop",
+      "company": "Dell",
+      "price": "40000",
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+      "id": 10
+    },
+    {
+      "prod_name": "Mobile",
+      "company": "Apple",
+      "price": "110000",
+      "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+      "id": 11
+    }
+  ]
+}
